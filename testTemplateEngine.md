@@ -438,7 +438,9 @@ Percentage of the requests served within a certain time (ms)
 ### Result
 
 &nbsp;| freemark | thymeleaf 
----- | --- | ---
-test1 | 0.189 | 0.266
-test2 |  0.192 | 0.262
-test3 |  0.171 | 0.270
+---- | --- | --- | 
+request times| 1000 | 1000
+request times per time |  20 | 20
+average time consuming |  0.184 | 0.266
+average requests per second | 5444 | 3764 
+performance comparison | 1 | 0.691
